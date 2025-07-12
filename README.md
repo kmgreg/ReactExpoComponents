@@ -1,1 +1,1 @@
-# Some Componentes I made that are useful.
+# Some Components I made that are useful.
